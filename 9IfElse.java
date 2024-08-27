@@ -15,6 +15,12 @@ public class Name {
 		{
 			//One last thing
 		}
+//################################################################ To evaluate strings
+        String name = "Tobias";
+		if (name.equals("Miguel"))      
+		{
+			//Do something
+		}
 		
 		//You can also check groups of conditions with () || && 
 		//You can also nest them
