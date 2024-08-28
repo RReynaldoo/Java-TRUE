@@ -1,3 +1,5 @@
+//Inheritance = the process where one class acquires,
+//              the attributes and methods of another
 public class Name 
 {
 	public static void main(String[]args)
