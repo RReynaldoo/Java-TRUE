@@ -1,0 +1,1 @@
+final int aNumber = 23;		//Adding final makes the number unchangeable
