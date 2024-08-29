@@ -8,7 +8,7 @@ public class Name
 		Bicycle bike = new Bicycle();
 		Car car = new Car();
 		
-		bike.go();		
+		bike.go();		//Can use inheritance
 		car.stop();		//Can use inheritance
 		
 		car.wheels();	//Because it is not inheriting from bike, it cannot use it
