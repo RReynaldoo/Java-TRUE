@@ -12,7 +12,7 @@ public class Name
 		fileName.getPath();				//Gets its name
 		fileName.getAbsolutePath();		//Gets its complete path 
 		fileName.isFile();				//Checks if it is a file
-		
+		fileName.delete();				//Deletes the file
 	}
 	
 }
